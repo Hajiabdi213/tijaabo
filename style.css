@@ -2,6 +2,10 @@ body {
     background:yellow;
 
 }
+
+.container{
+    width: 50%;
+    margin: o auto;
 h1 {
     background: white;
     width: 100%;
